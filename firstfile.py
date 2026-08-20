@@ -1,0 +1,2 @@
+print('adadad')
+print('afafad')
